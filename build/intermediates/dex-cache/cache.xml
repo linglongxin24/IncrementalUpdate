@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\kejiang\git\GitHub\IncrementalUpdate\app\libs\YDL_AutoUpdate.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6b03e7636ec7ce21bc4645c9f80260693d5688c">
+        <dex dex="E:\kejiang\git\GitHub\IncrementalUpdate\app\build\intermediates\pre-dexed\debug\YDL_AutoUpdate_8b5800f88a95b6cab2be2b1343a571d6a5f1363f.jar" />
+    </item>
+
+</items>
